@@ -177,7 +177,7 @@ body {
     align-items: center;
 }
 
-.hero-visual .circle {
+.hero-visual .square {
     width: 380px;
     height: 380px;
 
@@ -208,8 +208,8 @@ body {
 .quote-card {
     position: absolute;
 
-    bottom: 0;
-    right: 0;
+    bottom: 05;
+    right: 10;
 
     width: 220px;
 
